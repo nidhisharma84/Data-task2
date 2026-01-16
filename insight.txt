@@ -1,0 +1,7 @@
+INSIGHTS
+
+1. Technology category contributes the highest total sales and is the main revenue driver.
+2. Furniture category shows high sales but overall negative profit, indicating cost or discount issues.
+3. West region records the highest sales performance among all regions.
+4. South region is the lowest-performing region in terms of total sales.
+5. Office Supplies category provides stable sales with consistent positive profitability.
